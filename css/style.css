@@ -97,7 +97,7 @@ nav {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.navbar > h1 {
+nav > h1 {
   font-family: "Courier New", Courier, monospace;
   font-size: 30px;
   font-weight: 600;
